@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_codes",
+  "info": {
+    "displayName": "Code"
+  },
+  "options": {},
+  "attributes": {
+    "Content": {
+      "type": "blocks",
+      "required": true
+    }
+  }
+}

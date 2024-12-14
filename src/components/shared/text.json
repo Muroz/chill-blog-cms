@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_shared_texts",
+  "info": {
+    "displayName": "Text",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Content": {
+      "type": "text"
+    },
+    "Token": {
+      "type": "enumeration",
+      "enum": [
+        "p",
+        "label"
+      ]
+    }
+  }
+}

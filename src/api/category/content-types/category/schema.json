@@ -26,6 +26,14 @@
     },
     "description": {
       "type": "text"
+    },
+    "cover": {
+      "allowedTypes": [
+        "images",
+        "files"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
